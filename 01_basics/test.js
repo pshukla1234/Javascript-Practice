@@ -1,1 +1,1 @@
-console.log("Welcome to javascript peractice");
+console.log("Welcome to javascript practice");
