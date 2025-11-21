@@ -7,3 +7,5 @@ a == x
 b == z
 
 c = x+y+z
+
+new change = x + y 
